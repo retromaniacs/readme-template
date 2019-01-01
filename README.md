@@ -181,4 +181,4 @@ New members are welcome if they have the same philosophy with the organization.
 
 ## License
 
-[MIT] - Free Software for Everyone.
+[MIT](https://opensource.org/licenses/MIT) - Free Software for Everyone.
